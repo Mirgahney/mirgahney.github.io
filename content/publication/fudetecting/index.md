@@ -10,8 +10,8 @@ authors:
 - Alfredo Canziani
 - Chris Pal
 - Moustapha Cisse
-date: -01-01
-publishDate: '2024-10-31T19:15:10.002261Z'
+booktitle: International Conference on Machine Learning, AI for Social Good Workshop
+date: 15-06-2019
 publication_types:
 - article-journal
 ---
