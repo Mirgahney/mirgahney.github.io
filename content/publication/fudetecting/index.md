@@ -11,7 +11,7 @@ authors:
 - Chris Pal
 - Moustapha Cisse
 booktitle: International Conference on Machine Learning, AI for Social Good Workshop
-date: 15-06-2019
+date: '2019-06-15'
 publication_types:
 - article-journal
 ---
