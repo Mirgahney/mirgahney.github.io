@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Mirgahney H. Mohamed
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 'Mir-gah-nee'
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Mirgahney
+last_name: Mohamed
 
 # Status emoji
 status:
@@ -20,92 +20,106 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD Student in Computer Vision
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: University College London (UCL)
+    url: https://www.ucl.ac.uk/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:m.h.mohamed.@ucl.ac.uk'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://twitter.com/mirgahneym?lang=en
+#  - icon: brands/instagram
+#    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/mirgahney
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/mmirgahney
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=KNXYC1EAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/my-orcid?orcid=0000-0002-1129-5874
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - 3D Computer Vision
+  - Motion and deformation
+  - Representation Learning
+  - Generative Modeling
+  - Uncertainty Estimation
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Artificial Intelligence (Current)
+    institution: University College London (UCL)
+    date_start: 2020-09-01
+    date_end: 2025-03-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Thesis on 4D representation leanring. Supervised by [Prof Lourdes Agapito](https://profiles.ucl.ac.uk/40331-lourdes-de-agapito-vicente) and co-supervised with [Prof Marc Deisenroth](https://www.deisenroth.cc/). 
+#    button:
+#      text: 'Read Thesis'
+#      url: 'https://example.com'
+  - area: MSc Machine Intelligence
+    institution: AIMS - African Master in Machine Intelligence
+    date_start: 2018-09-01
+    date_end: 2019-12-31
     summary: |
-      GPA: 3.8/4.0
+      Grade: Distinction
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc Statistics and Computer Science
+    institution: University of Khartoum, Faculty of Mathematical Science
+    date_start: 2011-09-01
+    date_end: 2016-12-27
     summary: |
-      GPA: 3.4/4.0
+      GPA: 7.2/10.0
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Student Researcher
+    company_name: Google DeepMind
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2024-05-13
     date_end: ''
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+  - position: AI Resident
+    company_name: Foundational AI Research (FAIR), Meta
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2020-02-01
+    date_end: 2021-01-31
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Engineering Intern
+    company_name: Qualcomm AI Research, Amsterdam, Netherlands
+    company_url: ''
+    company_logo: ''
+    date_start: 2019-07-27
+    date_end: 2020-02-01
+    summary: |
+      Responsibilities include:
+      - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -116,37 +130,41 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: PyTorch
         description: ''
-        percent: 100
+        percent: 90
         icon: chart-bar
-      - name: SQL
+      - name: Jax
         description: ''
-        percent: 40
+        percent: 50
+        icon: chart-bar
+      - name: CUDA
+        description: ''
+        percent: 25
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
+      - name: Football
+        description: ''
+        percent: 90
+        icon: soccer-ball
       - name: Hiking
         description: ''
-        percent: 60
+        percent: 90
         icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
+      - name: Drawing
         description: ''
         percent: 80
-        icon: camera
+        icon: pencil-ruler
 
 languages:
   - name: English
-    percent: 100
-  - name: Chinese
     percent: 75
-  - name: Portuguese
+  - name: Arabic
+    percent: 100
+  - name: French
     percent: 25
 
 # Awards.
@@ -183,4 +201,7 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Mirgahney H. Mohamed is a PhD student at UCL Foundational AI CDT. 
+His research interests include 3D computer vision, motion and deformation, representation learning, and generative modeling. 
+Mirgahney is an active learner seeking knowledge in everything and from everyone, with a great enthusiasm for AI, machine learning, deep learning and other wide range of topic in science including mathematics, physics, statistics and computer science. 
+When he isn’t glued to a laptop screen, he spends time reading books, learning foreign language, and trying to use projectiles in playing football. 
