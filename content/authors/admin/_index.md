@@ -11,7 +11,8 @@ last_name: Mohamed
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 👨🏻‍💻
+# ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -71,9 +72,9 @@ education:
       Grade: Distinction
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Convex Optimization
+      - Probabilistic Graphical Models
+      - Deep Learning
   - area: BSc Statistics and Computer Science
     institution: University of Khartoum, Faculty of Mathematical Science
     date_start: 2011-09-01
@@ -82,9 +83,9 @@ education:
       GPA: 7.2/10.0
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Calculus, Abstract Algebra, Linear Algebra, Real Analysis and Complex Analysis.
+      - Programming Language Concepts, Algorithms, Operating Systems and Computer Networks.
+      - Statistics and Probability, Statistical Methods, Stochastic Processes, Time Series Analysis and Econometrics.
 work:
   - position: Student Researcher
     company_name: Google DeepMind
@@ -95,8 +96,6 @@ work:
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - position: AI Resident
     company_name: Foundational AI Research (FAIR), Meta
     company_url: ''
@@ -105,8 +104,6 @@ work:
     date_end: 2021-01-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - position: Engineering Intern
     company_name: Qualcomm AI Research, Amsterdam, Netherlands
@@ -116,8 +113,6 @@ work:
     date_end: 2020-02-01
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 
@@ -133,15 +128,15 @@ skills:
       - name: PyTorch
         description: ''
         percent: 90
-        icon: chart-bar
+        icon: code-bracket
       - name: Jax
         description: ''
         percent: 50
-        icon: chart-bar
+        icon: code-bracket
       - name: CUDA
         description: ''
         percent: 25
-        icon: circle-stack
+        icon: code-bracket
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -149,7 +144,7 @@ skills:
       - name: Football
         description: ''
         percent: 90
-        icon: soccer-ball
+        # icon: ball
       - name: Hiking
         description: ''
         percent: 90
@@ -157,13 +152,13 @@ skills:
       - name: Drawing
         description: ''
         percent: 80
-        icon: pencil-ruler
+        # icon: pencil-ruler
 
 languages:
   - name: English
     percent: 75
   - name: Arabic
-    percent: 100
+    percent: 90
   - name: French
     percent: 25
 
@@ -172,36 +167,46 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Prize Best National Graduation Project in Computer Science
+#    url: https://www.coursera.org/learn/neural-networks-deep-learning
+    date: '2017-11-25'
+    awarder: Sudan, Ministry of Higher Education and Scientific Research
+#    icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+        National competition on best graduation researches on the field of computer science.
+
+  - title: Prize Faculty award for the second academic achievement
+#    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+    date: '2017-07-01'
+    awarder: University of Khartoum, Faculty of Mathematical Science
+#    icon: edx
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+
+  - title: 'First team prize of Sudan universities programming contest'
+#    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+#    certificate_url: https://www.datacamp.com
+    date: '2015-01-21'
+    awarder: Programming contest, committee of Sudanese universities
+#    icon: datacamp
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+        Award for the best programming team across all Sudanese universities, national competition.
+
+  - title: 'Professor Eltaher El-ageb award for applied mathematics'
+    date: '2012-01-01'
+    awarder: University of Khartoum, Faculty of Mathematical Science
+    summary: |
+        Award for the best student in applied mathematics in the first year of the undergraduate study.
+
+  - title: 'Faculty award for the best student in the first year'
+    date: '2012-01-01'
+    awarder: University of Khartoum, Faculty of Mathematical Science
+    summary: |
+
 ---
 
 ## About Me
 
 Mirgahney H. Mohamed is a PhD student at UCL Foundational AI CDT. 
-His research interests include 3D computer vision, motion and deformation, representation learning, and generative modeling. 
-Mirgahney is an active learner seeking knowledge in everything and from everyone, with a great enthusiasm for AI, machine learning, deep learning and other wide range of topic in science including mathematics, physics, statistics and computer science. 
+His research interests include 3D computer vision, motion and deformation, representation learning, and generative modelling. 
+Mirgahney is an active learner seeking knowledge in everything and from everyone, with a great enthusiasm for AI, machine learning and other topic in science including mathematics, and physics. 
 When he isn’t glued to a laptop screen, he spends time reading books, learning foreign language, and trying to use projectiles in playing football. 

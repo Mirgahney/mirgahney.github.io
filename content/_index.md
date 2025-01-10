@@ -35,9 +35,10 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I'm a PhD student in Computer Vision at University College London (UCL). My research interests include 3D computer vision, motion and deformation, representation learning, and generative modeling.
+        I'm particularly interested in advancing generative models in 4D computer vision models.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I work with various deep learning techniques to model the 4D world, including NeRF, Gaussian Splatting and Diffusion models.
         
         Please reach out to collaborate 😃
     design:
