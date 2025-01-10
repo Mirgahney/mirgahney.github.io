@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4D Monocular Surface Reconstruction | Mirgahney Mohamed</title>
+    <link>http://localhost:1313/tags/4d-monocular-surface-reconstruction/</link>
+      <atom:link href="http://localhost:1313/tags/4d-monocular-surface-reconstruction/index.xml" rel="self" type="application/rss+xml" />
+    <description>4D Monocular Surface Reconstruction</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 14 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>4D Monocular Surface Reconstruction</title>
+      <link>http://localhost:1313/tags/4d-monocular-surface-reconstruction/</link>
+    </image>
+    
+    <item>
+      <title>Presented DynamicSurf at 3DV 2024 in Davos, switzerland.</title>
+      <link>http://localhost:1313/post/dynamicsurf/</link>
+      <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/dynamicsurf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

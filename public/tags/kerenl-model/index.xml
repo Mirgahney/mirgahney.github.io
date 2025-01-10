@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kerenl Model | Mirgahney Mohamed</title>
+    <link>http://localhost:1313/tags/kerenl-model/</link>
+      <atom:link href="http://localhost:1313/tags/kerenl-model/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kerenl Model</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 30 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Kerenl Model</title>
+      <link>http://localhost:1313/tags/kerenl-model/</link>
+    </image>
+    
+    <item>
+      <title>Cancer Relapse Prefiction</title>
+      <link>http://localhost:1313/project/pytorch/</link>
+      <pubDate>Wed, 30 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/pytorch/</guid>
+      <description>&lt;p&gt;This project is part of Kernel methods course at AMMI, the task is predicting relapse in patients the data is gene expression levels for 4654 genes on 184 early-stage breast cancer samples.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

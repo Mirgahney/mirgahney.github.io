@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stack Overflow | Mirgahney Mohamed</title>
+    <link>http://localhost:1313/tags/stack-overflow/</link>
+      <atom:link href="http://localhost:1313/tags/stack-overflow/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stack Overflow</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Stack Overflow</title>
+      <link>http://localhost:1313/tags/stack-overflow/</link>
+    </image>
+    
+    <item>
+      <title>StackBot</title>
+      <link>http://localhost:1313/project/pandas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/pandas/</guid>
+      <description>&lt;p&gt;This is stack overflow assistant bot take user queries and find the relevant thread in stack overflow and communicated to the user.&lt;/p&gt;
+&lt;p&gt;This project is part of NLP course in the advanced machine learning specialization by 
+ at 
+.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
