@@ -20,10 +20,10 @@ publication_types: ['article-journal']
 publication: '*arXiv preprint arXiv:2406.07169*'
 publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: 'Human motion generation has paramount importance in computer animation. It is a challenging generative temporal modelling task due to the vast possibilities of human motion, high human sensitivity to motion coherence and the difficulty of accurately generating fine-grained motions. Recently, diffusion methods have been proposed for human motion generation due to their high sample quality and expressiveness. However, generated sequences still suffer from motion incoherence, and are limited to short duration, and simpler motion and take considerable time during inference. To address these limitations, we propose RecMoDiffuse: Recurrent Flow Diffusion, a new recurrent diffusion formulation for temporal modelling. Unlike previous work, which applies diffusion to the whole sequence without any temporal dependency, an approach that inherently makes temporal consistency hard to achieve. Our method explicitly enforces temporal constraints with the means of normalizing flow models in the diffusion process and thereby extends diffusion to the temporal dimension. We demonstrate the effectiveness of RecMoDiffuse in the temporal modelling of human motion. Our experiments show that RecMoDiffuse achieves comparable results with state-of-the-art methods while generating coherent motion sequences and reducing the computational overhead in the inference stage.'
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 'We develop a novel architecture RecMoDiffuse: Recurrent Flow Diffusion, a new recurrent diffusion formulation for temporal modelling. Our method explicitly enforces temporal constraints with the means of normalizing flow models in the diffusion process and thereby extends diffusion to the temporal dimension.'
 
 tags:
   - Diffusion Models
@@ -38,14 +38,14 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: 'https://arxiv.org/pdf/2406.07169'
+url_code: ''
+url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: 'https://mirgahney.github.io/rfdm.io/'
 url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -68,14 +68,14 @@ projects:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: example
+
+# {{% callout note %}}
+# Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+# {{% /callout %}}
+# 
+# {{% callout note %}}
+# Create your slides in Markdown - click the _Slides_ button to check out the example.
+# {{% /callout %}}
+# 
+# Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
 ---
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
