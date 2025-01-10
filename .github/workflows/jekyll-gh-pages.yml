@@ -42,7 +42,8 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      # url: ${{ steps.deployment.outputs.page_url }}
+      url : https://mirgahney.github.io
     runs-on: ubuntu-latest
     needs: build
     steps:
