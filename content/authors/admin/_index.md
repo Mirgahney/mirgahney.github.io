@@ -92,10 +92,10 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2024-05-13
-    date_end: ''
+    date_end: 2024-12-27
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Led monocular 4D reconstruction and representation learning project using 3D Gaussian Splatting.
   - position: AI Resident
     company_name: Foundational AI Research (FAIR), Meta
     company_url: ''
@@ -104,7 +104,7 @@ work:
     date_end: 2021-01-31
     summary: |
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Led a navigation project for multi-legged robots utilizing inverse reinforcement learning and vision-based dynamics deep learning models. 
   - position: Engineering Intern
     company_name: Qualcomm AI Research, Amsterdam, Netherlands
     company_url: ''
@@ -113,8 +113,33 @@ work:
     date_end: 2020-02-01
     summary: |
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
+      - Developed and led an open-source project to help diagnose diseases using AI. 
+      - Conducted research applying deep learning in the medical field on portable devices.
+      - Invented a new loss that preserves neural network equivariance under extreme transformations.
+  
+  - position: C0-founder & CEO
+    company_name: Intelligent Analytics, Khartoum, Sudan
+    company_url: ''
+    company_logo: ''
+    date_start: 2017-03-01
+    date_end: 2019-12-31
+    summary: |
+      Responsibilities include:
+      - Led the development of text-based analytics solutions and dashboards for customer textual feedback and comments. This project reduced manual work and enabled clients to make quick data-driven decisions. 
+      - Handled strategy, product development, and client partnerships.
+      - Currently supporting the development of the next solution with cutting-edge LLMs and RAG technologies.
+  
+  -  position: Marketing Intelligence Specialist, Sudani
+     company_name: Sudatel, Khartoum, Sudan
+     company_url: ''
+     company_logo: ''
+     date_start: 2017-03-01
+     date_end: 2019-12-31
+     summary: |
+      Responsibilities include:
+      - Developed predictive machine learning models that analyse complex data and produce actionable insights to enhance customer understanding and user-centric product development.
+      - Developed social network analysis (SNA) on calling data to identify communities of customers who interact frequently or share characteristics, and examine how these communities relate to ARPU levels and churn rates.
+      - Identify market trends to inform strategic marketing decisions and support data-driven strategies by providing comprehensive analytical insights.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -167,7 +192,7 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Prize Best National Graduation Project in Computer Science
+  - title: Best National Graduation Project in Computer Science
 #    url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2017-11-25'
     awarder: Sudan, Ministry of Higher Education and Scientific Research
@@ -175,7 +200,7 @@ awards:
     summary: |
         National competition on best graduation researches on the field of computer science.
 
-  - title: Prize Faculty award for the second academic achievement
+  - title: Faculty Award for Second Academic Achievement.
 #    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2017-07-01'
     awarder: University of Khartoum, Faculty of Mathematical Science
@@ -195,9 +220,9 @@ awards:
     date: '2012-01-01'
     awarder: University of Khartoum, Faculty of Mathematical Science
     summary: |
-        Award for the best student in applied mathematics in the first year of the undergraduate study.
+        Award given to the student who achieves the highest grades in applied mathematics during their first year.
 
-  - title: 'Faculty award for the best student in the first year'
+  - title: 'Faculty Award for Best Academic Achievement.'
     date: '2012-01-01'
     awarder: University of Khartoum, Faculty of Mathematical Science
     summary: |
