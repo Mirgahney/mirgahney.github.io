@@ -6,7 +6,8 @@
 # Website name
 title: Mirgahney Mohamed
 # Website URL
-baseURL: 'https://mirgahney.github.io/'
+baseURL: 'https://www.mirgahney.com/'
+# baseURL: 'https://mirgahney.github.io/'
 
 ############################
 ## LANGUAGE
