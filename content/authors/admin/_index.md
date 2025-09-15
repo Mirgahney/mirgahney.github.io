@@ -95,7 +95,8 @@ work:
     date_end: 2024-12-27
     summary: |2-
       Responsibilities include:
-      - Led monocular 4D reconstruction and representation learning project using 3D Gaussian Splatting.
+      - Led a monocular 4D reconstruction and representation learning project using 3D Gaussian Splatting, achieving SOTA depth estimation and comparable RGB reconstruction and tracking. Trained on (16-32)x A100 and (8-16)x H100 GPUs.
+      - Extended internal open-source system incorporating 3D visualization methods.
   - position: AI Resident
     company_name: Foundational AI Research (FAIR), Meta
     company_url: ''
@@ -113,9 +114,9 @@ work:
     date_end: 2020-02-01
     summary: |
       Responsibilities include:
-      - Developed and led an open-source project to help diagnose diseases using AI. 
-      - Conducted research applying deep learning in the medical field on portable devices.
-      - Invented a new loss that preserves neural network equivariance under extreme transformations.
+      - Developed and led an open-source project to help diagnose diseases using AI, leading to a demo.
+      - Conducted research applying deep learning in the medical field on portable devices, leading to a published paper.
+      - Invented a new loss that preserves neural network equivariance under extreme transformations, which was subsequently patented (US Patent App. 17/170,745).
   
   - position: C0-founder & CEO
     company_name: Intelligent Analytics, Khartoum, Sudan
@@ -125,8 +126,8 @@ work:
     date_end: 2019-12-31
     summary: |
       Responsibilities include:
-      - Led the development of text-based analytics solutions and dashboards for customer textual feedback and comments. This project reduced manual work and enabled clients to make quick data-driven decisions. 
-      - Handled strategy, product development, and client partnerships.
+      - Led the development of text-based analytics solutions and dashboards for customer textual feedback and comments. This project reduced manual work by 43%, and enabled clients to make quick data-driven decisions.
+      - Managed strategy, product development, and client partnerships, including landing Zain, a major multinational telecommunications company, as an ongoing client.
       - Currently supporting the development of the next solution with cutting-edge LLMs and RAG technologies.
   
   -  position: Marketing Intelligence Specialist, Sudani
@@ -138,7 +139,7 @@ work:
      summary: |
       Responsibilities include:
       - Developed predictive machine learning models that analyse complex data and produce actionable insights to enhance customer understanding and user-centric product development.
-      - Developed social network analysis (SNA) on calling data to identify communities of customers who interact frequently or share characteristics, and examine how these communities relate to ARPU levels and churn rates.
+      - Conducted social network analysis (SNA) on calling data to identify communities of customers who interact frequently or share characteristics, and examine how these communities relate to ARPU levels and churn rates.
       - Identify market trends to inform strategic marketing decisions and support data-driven strategies by providing comprehensive analytical insights.
 
 # Skills
@@ -214,7 +215,7 @@ awards:
     awarder: Programming contest, committee of Sudanese universities
 #    icon: datacamp
     summary: |
-        Award for the best programming team across all Sudanese universities, national competition.
+        Award given to the top programming team among all Sudanese universities.
 
   - title: 'Professor Eltaher El-ageb award for applied mathematics'
     date: '2012-01-01'
